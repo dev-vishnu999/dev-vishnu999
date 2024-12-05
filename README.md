@@ -1,10 +1,10 @@
-My name is Vishnu Pundhir. 9+ years of experience of building and providing support to applications and Software. Expert in C#, JavaScript, API's, and .NET,Node,MySQL,mongodb, Angular,NextJs and React. Having created multiple applications working alongside a wide range of professionals, I have gained invaluable team-working expertise, which I bring with me into every project I worked. 
+My name is Vishnu Pundhir. 9+ years of experience of building and providing support to applications and Software. Expert in NodeJS,NestJS,C#, .NET,Node,MySQL,mongodb, Angular,NextJs and React and  JavaScript, API's. Having created multiple applications working alongside a wide range of professionals, I have gained invaluable team-working expertise, which I bring with me into every project I worked. 
 
 I have specialization in: ================= 
 
 Back-end technologies stack: 
 ----------------------------------- 
-- Web applications: with .Net, c#, MVC, .Net core, Asp .net blazor ,Nodejs, Entity Framework, Linq,Nodejs, WebAPI, REST API 
+- Web applications: with NodeJS,NestJS,Dotnet,NextJS,ReactJS,Typescript,Angular
 - Scripting Languages: JavaScript, Jquery, Angular Js, Signal R 
 - Web services: REST, SOAP, JSON 
 - Security: HTTPS/SSL, Encryption, Auditing, Logging, Identity Server 
@@ -17,6 +17,7 @@ Frontend technologies stack:
 - JavaScript, 
 - JQuery, 
 - NextJs 
+-React JS
 - Angular ,ngrx
 - React ,Redux
 - graphQL
